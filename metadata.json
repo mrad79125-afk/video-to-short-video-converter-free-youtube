@@ -1,0 +1,7 @@
+{
+  "name": "Shorts AI",
+  "description": "Video to short video converter with AI viral clip extraction and automatic animated captions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
